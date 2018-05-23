@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title></title>
-    <link rel="stylesheet" href="/css/puzzle.css">
+    <link rel="stylesheet" href="/css/style.css">
   </head>
   <body>
 <section id="section">
@@ -21,6 +21,6 @@
     </div>
     <div id="resetB" class="button" onclick="reset()">reset</div>
   </section>
-    <script type="text/javascript" src="js/puzzle.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
   </body>
 </html>
