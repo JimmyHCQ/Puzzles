@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title></title>
-    <link rel="stylesheet" href="/css/spyro2.css">
+    <link rel="stylesheet" href="/css/style.css">
   </head>
   <body>
     <section class="section">
@@ -18,6 +18,6 @@
       <div id="bot3" onclick="press()" class="box"></div>
     </section>
 
-    <script type="text/javascript" src="js/spyro2.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
   </body>
 </html>

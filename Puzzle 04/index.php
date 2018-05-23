@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Puzzle</title>
-    <link rel="stylesheet" href="/css/puzzle4.css">
+    <link rel="stylesheet" href="/css/style.css">
   </head>
   <body onload="start()">
     <section class="containerPuzzle">
@@ -14,6 +14,6 @@
       </div>
     </section>
 
-    <script src="js/puzzle4.js"></script>
+    <script src="js/script.js"></script>
   </body>
 </html>
