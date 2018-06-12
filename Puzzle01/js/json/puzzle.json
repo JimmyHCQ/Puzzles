@@ -1,0 +1,27 @@
+{
+  "words":[
+    {
+    "id":1,
+    "word":"CODE",
+    "letters":[
+        {"id":1,"letter":"O"},
+        {"id":2,"letter":"C"},
+        {"id":3,"letter":"D"},
+        {"id":4,"letter":"E"}
+      ]
+    },
+    {
+    "id":2,
+    "word":"BONJOUR",
+    "letters":[
+        {"id":1,"letter":"B"},
+        {"id":2,"letter":"O"},
+        {"id":3,"letter":"N"},
+        {"id":4,"letter":"J"},
+        {"id":5,"letter":"O"},
+        {"id":6,"letter":"U"},
+        {"id":7,"letter":"R"}
+      ]
+    }
+  ]
+}
